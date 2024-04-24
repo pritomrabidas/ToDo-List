@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+.main{
+    padding:0px 10px 10px 10px;
+}
+.inputBox{
+    display: flex;
+    gap: 20px;
+    margin: 20px 100px 40px 100px;
+}
+.inputValue{
+    width: 350px;
+    padding: 20px 10px;
+    background: none;
+    border-radius: 7px;
+    font-size: 15px;
+    border: -1px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 800px;
+}
+.add{
+    padding: 20px 40px;
+    background: none;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+}
+.list{
+    margin: 10px;
+ } 
+.item{
+    width: 250px;
+    height: 50px;
+    padding: 20px 10px;
+    background: none;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 800px;
+}
+.number{
+    padding: 15px;
+    background: none;
+    border: 1px solid;
+    border-radius: 10px;
+    gap: 10px;
+    margin-right: 10px;
+}
+.edit{
+    padding: 0px 20px;
+    background: none;
+    border-radius: 7px;
+    font-size: 12px;
+    font-family: "Nunito Sans", sans-serif;
+    margin: 0px 10px;
+}
+.delete{
+    padding: 0px 15px;
+    background: none;
+    border-radius: 7px;
+    font-size: 12px;
+    font-family: "Nunito Sans", sans-serif;
+}
+.list{
+    display: flex;
+}
+.checkbox{
+   margin-right: 10px;
+}
